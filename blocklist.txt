@@ -132,9 +132,7 @@ zh-cn.connect.facebook.com
 zh-cn.facebook.com
 zh-hk.facebook.com
 zh-tw.facebook.com
-
 api.raumfeld.com
-
 rdvs.alljoyn.org
 de.lgtvsdp.com
 kr.lgtvsdp.com
