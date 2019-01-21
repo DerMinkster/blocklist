@@ -1,6 +1,6 @@
 # hosts file
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/DerMinkster/blocklist/master/hosts
+# Fetch the latest version of this file: https://raw.githubusercontent.com/DerMinkster/blocklist/master/blocklist.txt
 #
 # ===============================================================
 
