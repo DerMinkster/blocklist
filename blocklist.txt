@@ -1,173 +1,190 @@
-0.facebook.com
-abc.facebook.com
-about.facebook.com
-act.facebook.com
-ads.facebook.com
-api.ak.facebook.com
-api.connect.facebook.com
-api.facebook.com
-app.facebook.com
-apps.facebook.com
-ar-ar.facebook.com
-ar-ar.vn-ni.connect.facebook.com
-badge.facebook.com
-bc.facebook.com
-beta.facebook.com
-bg-bg.facebook.com
-blog.facebook.com
-bs-ba.facebook.com
-c.facebook.com
-code.facebook.com
-connect.facebook.com
-connect.facebook.net
-cs-cz.facebook.com
-csf.facebook.com
-d.facebook.com
-da-dk.facebook.com
-de-de.facebook.com
-developers.facebook.com
-dns.facebook.com
-dns.msftncsi.com
-ed.facebook.com
-el-gr.facebook.com
-en-gb.facebook.com
-es-es.facebook.com
-es-es.fbjs.facebook.com
-es-la.f.connect.facebook.com
-es-la.facebook.com
-es.facebook.com
-et-ee.facebook.com
-external.ak.fbcdn.net
-fa-ir.facebook.com
-facebook.com
-facebook.de
-facebook.frfb-lt.facebook.com
-fb.mefbcdn.com
-fbcdn.netfi-fi.facebook.com
-fr-ca.facebook.com
-fr-fr.facebook.com
-fr-fr.o.facebook.com
-fr.facebook.com
-graph.facebook.com
-h.facebook.com
-he-il.facebook.com
-hi-in.facebook.com
-hr-hr.facebook.com
-hs.facebook.com
-hu-hu.facebook.com
-id-id.facebook.com
-intern.facebook.com
-inyour.facebook.com
-iphone.facebook.com
-it-it.facebook.com
-it.facebook.com
-ja-jp.facebook.com
-k.connect.facebook.com
-ko-kr.connect.facebook.com
-ko-kr.facebook.com
-latest.facebook.com
-lists.facebook.com
-login.facebook.com
-m.facebook.com
-mbasic.facebook.com
-ms-my.facebook.com
-national.facebook.com
-nb-no.facebook.com
-nic.facebook.com
-nl-nl.facebook.com
-nl.facebook.com
-nova.facebook.com
-ns1.facebook.com
-ns2.facebook.com
-ns3.facebook.com
-nsa.facebook.com
-ntp.facebook.com
-o.facebook.com
-pacific.facebook.com
-pixel.facebook.com
-pl-pl.facebook.com
-postmaster.facebook.com
-prod.facebook.com
-profile.ak.fbcdn.net
-pt-br.facebook.com
-pt-pt.facebook.com
-rdg.facebook.com
-register.facebook.com
-ro-ro.connect.facebook.com
-ro-ro.facebook.com
-ru-ru.facebook.com
-secure.facebook.com
-sr-rs.facebook.com
-ssl.connect.facebook.com
-static.ak.connect.facebook.com
-static.ak.facebook.com
-static.ak.fbcdn.net
-static.facebook.com
-sv-se.facebook.com
-th-th.facebook.com
-tl-ph.facebook.com
-touch.facebook.com
-tr-tr.facebook.com
-tr.facebook.com
-upload.facebook.com
-v4help.facebook.com
-vi-vn.connect.facebook.com
-vi-vn.facebook.com
-vi-vn.o.facebook.com
-w.facebook.com
-web.facebook.com
-ww.facebook.com
-www.connect.facebook.net
-www.facebook.com
-www.facebook.de
-www.facebook.fr
-www.fbcdn.com
-www.fbcdn.net
-www.login.facebook.com
-www2.facebook.com
-wwww.facebook.com
-x.facebook.com
-zero.facebook.com
-zh-cn.connect.facebook.com
-zh-cn.facebook.com
-zh-hk.facebook.com
-zh-tw.facebook.com
-api.raumfeld.com
-rdvs.alljoyn.org
-de.lgtvsdp.com
-kr.lgtvsdp.com
-de.ad.lgsmartad.com
-de.info.lgsmartad.com
-fm.nvc.araegy.nuancemobility.net
-fm.nvc.arasau.nuancemobility.net
-fm.nvc.arauae.nuancemobility.net
-fm.nvc.canhk.nuancemobility.net
-fm.nvc.chmn.nuancemobility.net
-fm.nvc.czecze.nuancemobility.net
-fm.nvc.dandan.nuancemobility.net
-fm.nvc.enau.nuancemobility.net
-fm.nvc.engb.nuancemobility.net
-fm.nvc.enus.nuancemobility.net
-fm.nvc.eses.nuancemobility.net
-fm.nvc.finfin.nuancemobility.net
-fm.nvc.frca.nuancemobility.net
-fm.nvc.frfr.nuancemobility.net
-fm.nvc.grkgrk.nuancemobility.net
-fm.nvc.heil.nuancemobility.net
-fm.nvc.indind.nuancemobility.net
-fm.nvc.itit.nuancemobility.net
-fm.nvc.jajp.nuancemobility.net
-fm.nvc.kokr.nuancemobility.net
-fm.nvc.malmal.nuancemobility.net
-fm.nvc.mntw.nuancemobility.net
-fm.nvc.nldnld.nuancemobility.net
-fm.nvc.nornor.nuancemobility.net
-fm.nvc.polpol.nuancemobility.net
-fm.nvc.porbra.nuancemobility.net
-fm.nvc.porpor.nuancemobility.net
-fm.nvc.rusrus.nuancemobility.net
-fm.nvc.sweswe.nuancemobility.net
-fm.nvc.thatha.nuancemobility.net
-fm.nvc.turtur.nuancemobility.net
-fm.nvc.ukua.nuancemobility.net
-fm.nvc.vievie.nuancemobility.net
+# This hosts file is my own
+#
+# Date: 21 January 2019
+# Number of unique domains: 140
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/DerMinkster/blocklist/master/blocklist.txt
+#
+# ===============================================================
+
+# Start Facebook
+0.0.0.0 0.facebook.com
+0.0.0.0 abc.facebook.com
+0.0.0.0 about.facebook.com
+0.0.0.0 act.facebook.com
+0.0.0.0 ads.facebook.com
+0.0.0.0 api.ak.facebook.com
+0.0.0.0 api.connect.facebook.com
+0.0.0.0 api.facebook.com
+0.0.0.0 app.facebook.com
+0.0.0.0 apps.facebook.com
+0.0.0.0 ar-ar.facebook.com
+0.0.0.0 ar-ar.vn-ni.connect.facebook.com
+0.0.0.0 badge.facebook.com
+0.0.0.0 bc.facebook.com
+0.0.0.0 beta.facebook.com
+0.0.0.0 bg-bg.facebook.com
+0.0.0.0 blog.facebook.com
+0.0.0.0 bs-ba.facebook.com
+0.0.0.0 c.facebook.com
+0.0.0.0 code.facebook.com
+0.0.0.0 connect.facebook.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 cs-cz.facebook.com
+0.0.0.0 csf.facebook.com
+0.0.0.0 d.facebook.com
+0.0.0.0 da-dk.facebook.com
+0.0.0.0 de-de.facebook.com
+0.0.0.0 developers.facebook.com
+0.0.0.0 dns.facebook.com
+0.0.0.0 dns.msftncsi.com
+0.0.0.0 ed.facebook.com
+0.0.0.0 el-gr.facebook.com
+0.0.0.0 en-gb.facebook.com
+0.0.0.0 es-es.facebook.com
+0.0.0.0 es-es.fbjs.facebook.com
+0.0.0.0 es-la.f.connect.facebook.com
+0.0.0.0 es-la.facebook.com
+0.0.0.0 es.facebook.com
+0.0.0.0 et-ee.facebook.com
+0.0.0.0 external.ak.fbcdn.net
+0.0.0.0 fa-ir.facebook.com
+0.0.0.0 facebook.com
+0.0.0.0 facebook.de
+0.0.0.0 facebook.frfb-lt.facebook.com
+0.0.0.0 fb.mefbcdn.com
+0.0.0.0 fbcdn.netfi-fi.facebook.com
+0.0.0.0 fr-ca.facebook.com
+0.0.0.0 fr-fr.facebook.com
+0.0.0.0 fr-fr.o.facebook.com
+0.0.0.0 fr.facebook.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 h.facebook.com
+0.0.0.0 he-il.facebook.com
+0.0.0.0 hi-in.facebook.com
+0.0.0.0 hr-hr.facebook.com
+0.0.0.0 hs.facebook.com
+0.0.0.0 hu-hu.facebook.com
+0.0.0.0 id-id.facebook.com
+0.0.0.0 intern.facebook.com
+0.0.0.0 inyour.facebook.com
+0.0.0.0 iphone.facebook.com
+0.0.0.0 it-it.facebook.com
+0.0.0.0 it.facebook.com
+0.0.0.0 ja-jp.facebook.com
+0.0.0.0 k.connect.facebook.com
+0.0.0.0 ko-kr.connect.facebook.com
+0.0.0.0 ko-kr.facebook.com
+0.0.0.0 latest.facebook.com
+0.0.0.0 lists.facebook.com
+0.0.0.0 login.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 mbasic.facebook.com
+0.0.0.0 ms-my.facebook.com
+0.0.0.0 national.facebook.com
+0.0.0.0 nb-no.facebook.com
+0.0.0.0 nic.facebook.com
+0.0.0.0 nl-nl.facebook.com
+0.0.0.0 nl.facebook.com
+0.0.0.0 nova.facebook.com
+0.0.0.0 ns1.facebook.com
+0.0.0.0 ns2.facebook.com
+0.0.0.0 ns3.facebook.com
+0.0.0.0 nsa.facebook.com
+0.0.0.0 ntp.facebook.com
+0.0.0.0 o.facebook.com
+0.0.0.0 pacific.facebook.com
+0.0.0.0 pixel.facebook.com
+0.0.0.0 pl-pl.facebook.com
+0.0.0.0 postmaster.facebook.com
+0.0.0.0 prod.facebook.com
+0.0.0.0 profile.ak.fbcdn.net
+0.0.0.0 pt-br.facebook.com
+0.0.0.0 pt-pt.facebook.com
+0.0.0.0 rdg.facebook.com
+0.0.0.0 register.facebook.com
+0.0.0.0 ro-ro.connect.facebook.com
+0.0.0.0 ro-ro.facebook.com
+0.0.0.0 ru-ru.facebook.com
+0.0.0.0 secure.facebook.com
+0.0.0.0 sr-rs.facebook.com
+0.0.0.0 ssl.connect.facebook.com
+0.0.0.0 static.ak.connect.facebook.com
+0.0.0.0 static.ak.facebook.com
+0.0.0.0 static.ak.fbcdn.net
+0.0.0.0 static.facebook.com
+0.0.0.0 sv-se.facebook.com
+0.0.0.0 th-th.facebook.com
+0.0.0.0 tl-ph.facebook.com
+0.0.0.0 touch.facebook.com
+0.0.0.0 tr-tr.facebook.com
+0.0.0.0 tr.facebook.com
+0.0.0.0 upload.facebook.com
+0.0.0.0 v4help.facebook.com
+0.0.0.0 vi-vn.connect.facebook.com
+0.0.0.0 vi-vn.facebook.com
+0.0.0.0 vi-vn.o.facebook.com
+0.0.0.0 w.facebook.com
+0.0.0.0 web.facebook.com
+0.0.0.0 ww.facebook.com
+0.0.0.0 www.connect.facebook.net
+0.0.0.0 www.facebook.com
+0.0.0.0 www.facebook.de
+0.0.0.0 www.facebook.fr
+0.0.0.0 www.fbcdn.com
+0.0.0.0 www.fbcdn.net
+0.0.0.0 www.login.facebook.com
+0.0.0.0 www2.facebook.com
+0.0.0.0 wwww.facebook.com
+0.0.0.0 x.facebook.com
+0.0.0.0 zero.facebook.com
+0.0.0.0 zh-cn.connect.facebook.com
+0.0.0.0 zh-cn.facebook.com
+0.0.0.0 zh-hk.facebook.com
+0.0.0.0 zh-tw.facebook.com
+# End Facebook
+
+# Start Teufel S One
+0.0.0.0 api.raumfeld.com
+# End Teufel S One
+
+# Start LG60UF6959-ZA 
+0.0.0.0 rdvs.alljoyn.org
+0.0.0.0 de.lgtvsdp.com
+0.0.0.0 kr.lgtvsdp.com
+0.0.0.0 de.ad.lgsmartad.com
+0.0.0.0 de.info.lgsmartad.com
+0.0.0.0 fm.nvc.araegy.nuancemobility.net
+0.0.0.0 fm.nvc.arasau.nuancemobility.net
+0.0.0.0 fm.nvc.arauae.nuancemobility.net
+0.0.0.0 fm.nvc.canhk.nuancemobility.net
+0.0.0.0 fm.nvc.chmn.nuancemobility.net
+0.0.0.0 fm.nvc.czecze.nuancemobility.net
+0.0.0.0 fm.nvc.dandan.nuancemobility.net
+0.0.0.0 fm.nvc.enau.nuancemobility.net
+0.0.0.0 fm.nvc.engb.nuancemobility.net
+0.0.0.0 fm.nvc.enus.nuancemobility.net
+0.0.0.0 fm.nvc.eses.nuancemobility.net
+0.0.0.0 fm.nvc.finfin.nuancemobility.net
+0.0.0.0 fm.nvc.frca.nuancemobility.net
+0.0.0.0 fm.nvc.frfr.nuancemobility.net
+0.0.0.0 fm.nvc.grkgrk.nuancemobility.net
+0.0.0.0 fm.nvc.heil.nuancemobility.net
+0.0.0.0 fm.nvc.indind.nuancemobility.net
+0.0.0.0 fm.nvc.itit.nuancemobility.net
+0.0.0.0 fm.nvc.jajp.nuancemobility.net
+0.0.0.0 fm.nvc.kokr.nuancemobility.net
+0.0.0.0 fm.nvc.malmal.nuancemobility.net
+0.0.0.0 fm.nvc.mntw.nuancemobility.net
+0.0.0.0 fm.nvc.nldnld.nuancemobility.net
+0.0.0.0 fm.nvc.nornor.nuancemobility.net
+0.0.0.0 fm.nvc.polpol.nuancemobility.net
+0.0.0.0 fm.nvc.porbra.nuancemobility.net
+0.0.0.0 fm.nvc.porpor.nuancemobility.net
+0.0.0.0 fm.nvc.rusrus.nuancemobility.net
+0.0.0.0 fm.nvc.sweswe.nuancemobility.net
+0.0.0.0 fm.nvc.thatha.nuancemobility.net
+0.0.0.0 fm.nvc.turtur.nuancemobility.net
+0.0.0.0 fm.nvc.ukua.nuancemobility.net
+0.0.0.0 fm.nvc.vievie.nuancemobility.net
+# End LG60UF6959-ZA 
