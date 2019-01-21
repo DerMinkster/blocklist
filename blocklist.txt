@@ -34,7 +34,6 @@
 0.0.0.0 d.facebook.com
 0.0.0.0 da-dk.facebook.com
 0.0.0.0 de-de.facebook.com
-0.0.0.0 de.lgtvsdp.com
 0.0.0.0 developers.facebook.com
 0.0.0.0 dns.facebook.com
 0.0.0.0 dns.msftncsi.com
