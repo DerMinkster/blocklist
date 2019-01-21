@@ -101,7 +101,6 @@
 0.0.0.0 pt-br.facebook.com
 0.0.0.0 pt-pt.facebook.com
 0.0.0.0 rdg.facebook.com
-0.0.0.0 rdvs.alljoyn.org
 0.0.0.0 register.facebook.com
 0.0.0.0 ro-ro.connect.facebook.com
 0.0.0.0 ro-ro.facebook.com
