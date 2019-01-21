@@ -155,6 +155,9 @@
 # ===============================================================
 0.0.0.0 rdvs.alljoyn.org
 0.0.0.0 de.lgtvsdp.com
+0.0.0.0 kr.lgtvsdp.com
+0.0.0.0 de.ad.lgsmartad.com
+0.0.0.0 de.info.lgsmartad.com
 0.0.0.0 fm.nvc.araegy.nuancemobility.net
 0.0.0.0 fm.nvc.arasau.nuancemobility.net
 0.0.0.0 fm.nvc.arauae.nuancemobility.net
