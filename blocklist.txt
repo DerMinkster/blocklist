@@ -1,12 +1,3 @@
-# hosts file
-#
-# Fetch the latest version of this file: https://raw.githubusercontent.com/DerMinkster/blocklist/master/blocklist.txt
-#
-# ===============================================================
-
-# ===============================================================
-# Facebook
-# ===============================================================
 0.facebook.com
 abc.facebook.com
 about.facebook.com
@@ -141,17 +132,9 @@ zh-cn.connect.facebook.com
 zh-cn.facebook.com
 zh-hk.facebook.com
 zh-tw.facebook.com
-# ===============================================================
 
-# ===============================================================
-# Teufel S One
-# ===============================================================
 api.raumfeld.com
-# ===============================================================
 
-# ===============================================================
-# LG60UF6959-ZA 
-# ===============================================================
 rdvs.alljoyn.org
 de.lgtvsdp.com
 kr.lgtvsdp.com
@@ -190,4 +173,3 @@ fm.nvc.thatha.nuancemobility.net
 fm.nvc.turtur.nuancemobility.net
 fm.nvc.ukua.nuancemobility.net
 fm.nvc.vievie.nuancemobility.net
-# ===============================================================
