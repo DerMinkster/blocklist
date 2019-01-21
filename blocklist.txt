@@ -148,7 +148,7 @@
 
 # LG
 0.0.0.0.0 us.rdx2.lgtvsdp.com
-0.0.0.0.0us.info.lgsmartad.com
+0.0.0.0.0 us.info.lgsmartad.com
 0.0.0.0.0 us.ibs.lgappstv.com
 0.0.0.0.0 us.lgtvsdp.com
 0.0.0.0.0 ad.lgappstv.com
@@ -160,13 +160,12 @@
 0.0.0.0.0 yumenetworks.com
 0.0.0.0.0 smartclip.net
 0.0.0.0.0 smartclip.com
-0.0.0.0.0ad.lgappstv.com
+0.0.0.0.0 ad.lgappstv.com
 0.0.0.0.0 llnwd.net
 0.0.0.0.0 smartshare.lgtvsdp.com
 0.0.0.0.0 de.lgtvsdp.com
 0.0.0.0.0 rdvs.alljoyn.org
 0.0.0.0.0 de.info.lgsmartad.com
 0.0.0.0.0 kr.lgtvsdp.com
-0.0.0.0.0safebrowsing.google.com
+0.0.0.0.0 safebrowsing.google.com
 0.0.0.0.0 clients2.google.com
-*.nuancemobility.net
