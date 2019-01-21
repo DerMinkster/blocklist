@@ -182,4 +182,10 @@
 0.0.0.0 fm.nvc.polpol.nuancemobility.net
 0.0.0.0 fm.nvc.porbra.nuancemobility.net
 0.0.0.0 fm.nvc.porpor.nuancemobility.net
+0.0.0.0 fm.nvc.rusrus.nuancemobility.net
+0.0.0.0 fm.nvc.sweswe.nuancemobility.net
+0.0.0.0 fm.nvc.thatha.nuancemobility.net
+0.0.0.0 fm.nvc.turtur.nuancemobility.net
+0.0.0.0 fm.nvc.ukua.nuancemobility.net
+0.0.0.0 fm.nvc.vievie.nuancemobility.net
 # ===============================================================
