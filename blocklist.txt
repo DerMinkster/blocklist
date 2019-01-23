@@ -112,6 +112,7 @@
 0.0.0.0 static.ak.facebook.com
 0.0.0.0 static.ak.fbcdn.net
 0.0.0.0 static.facebook.com
+0.0.0.0 staticxx.facebook.com
 0.0.0.0 sv-se.facebook.com
 0.0.0.0 th-th.facebook.com
 0.0.0.0 tl-ph.facebook.com
@@ -160,6 +161,7 @@
 0.0.0.0 fm.nvc.chmn.nuancemobility.net
 0.0.0.0 fm.nvc.czecze.nuancemobility.net
 0.0.0.0 fm.nvc.dandan.nuancemobility.net
+0.0.0.0 fm.nvc.dede.nuancemobility.net
 0.0.0.0 fm.nvc.enau.nuancemobility.net
 0.0.0.0 fm.nvc.engb.nuancemobility.net
 0.0.0.0 fm.nvc.enus.nuancemobility.net
