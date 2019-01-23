@@ -166,6 +166,7 @@
 0.0.0.0 fm.nvc.engb.nuancemobility.net
 0.0.0.0 fm.nvc.enus.nuancemobility.net
 0.0.0.0 fm.nvc.eses.nuancemobility.net
+0.0.0.0 fm.nvc.esus.nuancemobility.net
 0.0.0.0 fm.nvc.finfin.nuancemobility.net
 0.0.0.0 fm.nvc.frca.nuancemobility.net
 0.0.0.0 fm.nvc.frfr.nuancemobility.net
