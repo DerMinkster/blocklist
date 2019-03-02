@@ -147,6 +147,7 @@
 # Start Teufel S One
 0.0.0.0 api.raumfeld.com
 0.0.0.0 opml.radiotime.com
+opml.radiotime.com.dieminklais
 # End Teufel S One
 
 # Start LG60UF6959-ZA 
