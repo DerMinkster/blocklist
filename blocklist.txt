@@ -146,6 +146,7 @@
 
 # Start Teufel S One
 0.0.0.0 api.raumfeld.com
+0.0.0.0 opml.radiotime.com
 # End Teufel S One
 
 # Start LG60UF6959-ZA 
@@ -190,3 +191,7 @@
 0.0.0.0 fm.nvc.ukua.nuancemobility.net
 0.0.0.0 fm.nvc.vievie.nuancemobility.net
 # End LG60UF6959-ZA 
+
+# Start MacBook
+0.0.0.0 event.chargeberry.com
+# End MacBook
