@@ -193,3 +193,8 @@ opml.radiotime.com.dieminklais
 # Start MacBook
 0.0.0.0 event.chargeberry.com
 # End MacBook
+
+# Start FireFox
+0.0.0.0 incoming.telemetry.mozilla.org
+# End FireFox
+
