@@ -187,6 +187,9 @@
 0.0.0.0 fm.nvc.turtur.nuancemobility.net
 0.0.0.0 fm.nvc.ukua.nuancemobility.net
 0.0.0.0 fm.nvc.vievie.nuancemobility.net
+0.0.0.0 snu.lge.com
+0.0.0.0 su.lge.com
+0.0.0.0 lgtvonline.lge.com
 # End LG60UF6959-ZA 
 
 # Start MacBook
@@ -196,4 +199,3 @@
 # Start FireFox
 0.0.0.0 incoming.telemetry.mozilla.org
 # End FireFox
-
